@@ -1,0 +1,13 @@
+====== WordPress Mobile ======
+
+====== Background ====== 
+
+This is a personal project to get Experience using [[http://jquerymobile.com|jQuery Mobile]]
+
+====== Technique used ====== 
+  * jQuery Mobile version 1.0a3 (as of 01 Mar 2011)
+
+  ====== Changelog ====== 
+
+    * **2011-03-01** \\ first Version, no further support for anything, just listing and showing Articles. 
+	    * Known issue: Home button not working correctly

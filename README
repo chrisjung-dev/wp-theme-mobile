@@ -9,5 +9,4 @@ This is a personal project to get Experience using [[http://jquerymobile.com|jQu
 
   ====== Changelog ====== 
 
-    * **2011-03-01** \\ first Version, no further support for anything, just listing and showing Articles. 
-	    * Known issue: Home button not working correctly
+  * **2011-03-01** \\ first Version, no further support for anything, just listing, showing Articles, showing a List of Categories

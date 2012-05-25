@@ -22,7 +22,8 @@
 
 				<?php endif; ?>
 			
-				<div data-role="content" data-theme="b">
+				<div class="ui-body ui-body-b " data-theme="a">
+					<h2>Meta</h2>
 					<div data-role="collapsible" data-collapsed="true">
 						<h2>Kategorien</h2>
 						<ul data-role="listview" data-inset="true">

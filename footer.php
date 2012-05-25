@@ -1,6 +1,6 @@
-			<div data-role="footer" data-theme="a">
+			<footer data-role="footer" data-theme="a">
 				<p>Blog von Chris Jung</p>
-			</div> 
+			</footer> 
 
 		</div>
 		<?php wp_footer(); ?>

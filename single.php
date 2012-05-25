@@ -1,6 +1,6 @@
 		<?php get_header(); ?>
 
-			<div data-role="content">
+			<article data-role="content">
 
 			<?php if (have_posts()) : ?>
 
@@ -14,7 +14,7 @@
 					<?php endwhile; ?>
 			<?php endif; ?>
 
-			</div> 
+			</article> 
 
 		<?php get_footer(); ?>
 
